@@ -1,0 +1,4 @@
+# Copy this file to local.properties and replace both placeholders.
+# local.properties is intentionally ignored by Git.
+sdk.dir=C\:\\path\\to\\Android\\Sdk
+MAPS_API_KEY=YOUR_GOOGLE_MAPS_API_KEY
